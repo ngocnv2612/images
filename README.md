@@ -28,5 +28,5 @@ Chú ý tên các cột phải để giống như mô tả (kể cả chữ hoa 
 
 
 ## 🎁 Donate
-https://raw.githubusercontent.com/ngocnv2612/images/main/tpbank.png
+![qr_code](tpbank.png)
 
