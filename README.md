@@ -1,17 +1,20 @@
 ## Hướng dẫn sử dụng
 
+(Nếu đã có file `Profiles.xlsx` ở các kèo trước thì bỏ qua bước này)
 1. Tạo file Profiles.xlsx gồm profileName và toUrl lần lượt là tên profile và proxy định dạng: http://username:pass@ip:port, nếu profile nào ko chạy proxy thì để trống.
-- Như hình ![alt text](images/profile_before.png)
-- Nếu proxy chưa đúng định dạng => Dùng tool convert proxy: https://t.me/W0lfairdrop/235
+- Như hình 
+
+![before](images/profile_before.png)
+
+- Nếu proxy chưa đúng định dạng 
+=> Dùng tool convert proxy: https://t.me/W0lfairdrop/235
 
 2. Tạo ra file data.xlsx (cùng cấp với file này) gồm profileName và query_id (giá trị có thể là user_id hoặc query_id) nhưng tên cột phải để là query_id như hình:
 
-![alt tedt](images/data.xlsx.png)
+![after](images/data.xlsx.png)
 
 !!!
 Chú ý tên các cột phải để giống như mô tả (kể cả chữ hoa chữ thường) và giá trị profileName phải giống với profileName của file Profiles.xlsx để map với nhau.
-
-- Link file mẫu: https://t.me/W0lfairdrop/203
 
 3. CONFIG: Trong config.json 
 - "numThreads": sửa thành số luồng muốn chạy
