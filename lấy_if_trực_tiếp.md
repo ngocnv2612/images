@@ -31,7 +31,12 @@
 !!!
 Chú ý tên các cột phải để giống như mô tả **(kể cả chữ hoa chữ thường)** và giá trị `profileName` phải giống với `profileName` của file `Profiles.xlsx` để map với nhau.
 
-### 3. CONFIG: Trong config.json 
+### 3. CONFIG: Trong config.json
+
+  - `autoGetIframe`: true nếu auto lấy if, false nếu muốn lấy thủ công như cũ
+  - `GPM_URL`: "http://127.0.0.1:19995", giữ nguyên nếu ko thay đổi gì trong gpm login
+  `LINK_REF`: sửa thành link ref của bạn
+  `numThreads`: nến giảm xuống còn 20-30 để tránh mở nhiều chrome, tránh chạy song song nhiều kèo khác.
 
 ### 4. Install: Chạy file `install.bat` hoặc ```npm install```
 
