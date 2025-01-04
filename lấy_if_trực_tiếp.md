@@ -38,7 +38,7 @@ Chú ý tên các cột phải để giống như mô tả **(kể cả chữ ho
 
   - `autoGetIframe`: true nếu auto lấy if, false nếu muốn lấy thủ công như cũ
   - `GPM_URL`: "http://127.0.0.1:19995", giữ nguyên nếu ko thay đổi gì trong gpm login
-  - `LINK_REF`: sửa thành link ref của bạn
+  - `LINK_REF`: sửa thành link ref của bạn vd: "https://t.me/UXUYbot/app?startapp=A_1653381328_inviteEarn"
   - `numThreads`: nến giảm xuống còn 20-30 để tránh mở nhiều chrome, tránh chạy song song nhiều kèo khác.
 
 ### 4. Install: Chạy file `install.bat` hoặc ```npm install```
