@@ -1,5 +1,7 @@
 ## Hướng dẫn sử dụng lấy iframe trực tiếp
 
+### 🔓 Yêu cầu: máy cài nodejs và GPM login.
+
 **(Nếu đã có file `Profiles.xlsx` ở các kèo trước thì bỏ qua bước 1)**
 ### 1. Chuẩn bị Profiles.xlsx
 
