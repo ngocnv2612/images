@@ -50,4 +50,4 @@ Chú ý tên các cột phải để giống như mô tả **(kể cả chữ ho
 🛒 Mua tools - 🐞Report Bug - 🔓 Request Kèo - 🛫 Liên hệ: JoyDadDev (https://t.me/joydaddev)
 
 ## 🎁 Donate
-![qr_code](tpbank.png)
+![qr_code](tpbank999999.png)

@@ -138,4 +138,4 @@ API_KEY=da26c544xxxxxxxxxxxx
 🛒 Mua tools - 🐞Report Bug - 🔓 Request Kèo - 🛫 Liên hệ: JoyDadDev (https://t.me/joydaddev)
 
 ## 🎁 Donate
-![qr_code](tpbank.png)
+![qr_code](tpbank999999.png)
