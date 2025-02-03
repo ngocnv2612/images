@@ -14,7 +14,7 @@
 #### Nếu proxy chưa đúng định dạng 
 => Dùng tool convert proxy: https://t.me/W0lfairdrop/235
 
-#### File mẫu: [Profiles.xlsx](Profiles.xlsx)
+#### File mẫu: [Profiles.xlsx](file-mau-lay-if-truc-tiep/Profiles.xlsx)
 
 ### 2. Chuẩn bị data.xlsx
 
@@ -29,7 +29,7 @@
 
 ![after](images/data-if.png)
 
-#### File mẫu: [data.xlsx](data.xlsx)
+#### File mẫu: [data.xlsx](file-mau-lay-if-truc-tiep/data.xlsx)
 
 !!!
 Chú ý tên các cột phải để giống như mô tả **(kể cả chữ hoa chữ thường)** và giá trị `profileName` phải giống với `profileName` của file `Profiles.xlsx` để map với nhau.
