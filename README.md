@@ -8,6 +8,15 @@
 #### Như hình 
 ![before](images/profile_before.png)
 
+#### Thêm tính năng xoay vòng proxy:
+
++ field useProxyTxt: true or false //có dùng file proxy.txt hay không, có sẽ bỏ qua proxy trong profiles, dùng xoay vòng trong file proxy.txt
++ cột toUrl trong file Profiles có thể để trống, khi đó sẽ dùng proxy trong file proxy.txt xoay vòng.
++ Thêm proxy.txt file để xoay vòng nếu trong profile không config toUrl (proxy)
+Hoặc khi proxy hiện tại bị lỗi sẽ thử lần lượt các proxy này. Nếu hết danh sách mà vẫn lỗi thì sẽ báo lỗi và dừng chạy acc hiện tại
+
++ Định dạng proxy: http://username:pass@ip:port
+
 #### Nếu proxy chưa đúng định dạng 
 => Dùng tool convert proxy: https://t.me/W0lfairdrop/235
 
