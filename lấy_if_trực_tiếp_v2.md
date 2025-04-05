@@ -24,7 +24,7 @@
 
 - `query_id` (có thể có hoặc không với cách lấy trực tiếp) (giá trị có thể là `user_id` hoặc `query_id` hoặc `iframe`) nhưng tên cột phải để là query_id như hình:
 
-![after](images/data.png)
+![after](images/data.xlsx.png)
 
 #### File mẫu: [data.xlsx](file-mau-lay-if-truc-tiep/data.xlsx)
 
